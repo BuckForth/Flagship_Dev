@@ -1,0 +1,1654 @@
+fileFormatVersion: 2
+guid: fbb472fd4cf34e649b737a09a9b92485
+timeCreated: 1462587631
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MJ-015_2
+    21300002: MJ-015_3
+    21300004: MJ-015_4
+    21300006: MJ-015_1
+    21300008: MJ-015_0
+    21300010: MJ-015_Second_2
+    21300012: MJ-015_Second_1
+    21300014: MJ-015_Second_0
+    21300016: MJ-015_Second_3
+    21300018: MJ-015_Second_4
+    21300020: MJ-015_CockPit_2
+    21300022: MJ-015_CockPit_1
+    21300024: MJ-015_CockPit_0
+    21300026: MJ-015_CockPit_3
+    21300028: MJ-015_CockPit_4
+    21300030: Beetle_2
+    21300032: Beetle_1
+    21300034: Beetle_0
+    21300036: Beetle_3
+    21300038: Beetle_4
+    21300040: Beetle_Second_0
+    21300042: Beetle_Second_1
+    21300044: Beetle_Second_2
+    21300046: Beetle_Second_3
+    21300048: Beetle_Second_4
+    21300050: Beetle_CockPit_0
+    21300052: Beetle_CockPit_1
+    21300054: Beetle_CockPit_3
+    21300056: Beetle_CockPit_4
+    21300058: Beetle_CockPit_5
+    21300060: Cargo_2
+    21300062: Cargo_1
+    21300064: Cargo_0
+    21300066: Cargo_3
+    21300068: Cargo_4
+    21300070: Cargo_Second_0
+    21300072: Cargo_Second_1
+    21300074: Cargo_Second_2
+    21300076: Cargo_Second_3
+    21300078: Cargo_Second_5
+    21300080: Cargo_CockPit_0
+    21300082: Cargo_CockPit_1
+    21300084: Cargo_CockPit_2
+    21300086: Cargo_CockPit_3
+    21300088: Cargo_CockPit_4
+    21300090: Viper_2
+    21300092: Viper_1
+    21300094: Viper_0
+    21300096: Viper_3
+    21300098: Viper_4
+    21300100: Pod_0
+    21300102: Pod_2
+    21300104: Pod_1
+    21300106: Pod_3
+    21300108: Pod_4
+    21300110: Cobra_2
+    21300112: Cobra_1
+    21300114: Cobra_0
+    21300116: Cobra_3
+    21300118: Cobra_4
+    21300120: Scamp_2
+    21300122: Scamp_1
+    21300124: Scamp_0
+    21300126: Scamp_3
+    21300128: Scamp_4
+    21300130: Ships_Fodder_20
+    21300132: Ships_Fodder_21
+    21300134: Ships_Fodder_22
+    21300136: Ships_Fodder_23
+    21300138: Ships_Fodder_24
+    21300140: Viper_Second_2
+    21300142: Viper_Second_1
+    21300144: Viper_Second_0
+    21300146: Viper_Second_3
+    21300148: Viper_Second_4
+    21300150: Pod_Second_2
+    21300152: Pod_Second_1
+    21300154: Pod_Second_0
+    21300156: Pod_Second_3
+    21300158: Pod_Second_4
+    21300160: Cobra_Second_2
+    21300162: Cobra_Second_1
+    21300164: Cobra_Second_0
+    21300166: Cobra_Second_3
+    21300168: Cobra_Second_4
+    21300170: Scamp_Second_2
+    21300172: Scamp_Second_1
+    21300174: Scamp_Second_0
+    21300176: Scamp_Second_3
+    21300178: Scamp_Second_4
+    21300180: Ships_Fodder_45
+    21300182: Ships_Fodder_46
+    21300184: Ships_Fodder_47
+    21300186: Ships_Fodder_48
+    21300188: Ships_Fodder_49
+    21300190: Viper_Cockpit_2
+    21300192: Viper_Cockpit_1
+    21300194: Viper_Cockpit_3
+    21300196: Viper_Cockpit_4
+    21300198: Viper_Cockpit_0
+    21300200: Pod_Cockpit_2
+    21300202: Pod_Cockpit_1
+    21300204: Pod_Cockpit_0
+    21300206: Pod_Cockpit_3
+    21300208: Pod_Cockpit_4
+    21300210: Cobra_Cockpit_2
+    21300212: Cobra_Cockpit_1
+    21300214: Cobra_Cockpit_0
+    21300216: Cobra_Cockpit_3
+    21300218: Cobra_Cockpit_4
+    21300220: Scamp_Cockpit_2
+    21300222: Scamp_Cockpit_1
+    21300224: Scamp_Cockpit_0
+    21300226: Scamp_Cockpit_3
+    21300228: Scamp_Cockpit_4
+    21300230: Ships_Fodder_70
+    21300232: Ships_Fodder_71
+    21300234: Ships_Fodder_72
+    21300236: Ships_Fodder_73
+    21300238: Ships_Fodder_74
+    21300240: Ships_Fodder_2
+    21300242: Rockship1_Main
+    21300244: Rockship1_Second
+    21300246: Rockship2_Main
+    21300248: Rockship2_Second
+    21300250: Ships_Fodder_Blank
+    21300252: Turret_Round_0
+    21300254: Turret_Round_1
+    21300256: Turret_Round_2
+    21300258: Turret_Round_3
+    21300260: Turret_Round_4
+    21300262: Turret_Round_Second_0
+    21300264: Turret_Round_Second_1
+    21300266: Turret_Round_Second_2
+    21300268: Turret_Round_Second_3
+    21300270: Turret_Round_Second_4
+    21300272: Turret_Round_Detail_0
+    21300274: Turret_Round_Detail_1
+    21300276: Turret_Round_Detail_2
+    21300278: Turret_Round_Detail_3
+    21300280: Turret_Round_Detail_4
+    21300282: GroundCannon_0
+    21300284: GroundCannon_1
+    21300286: GroundCannon_2
+    21300288: GroundCannon_3
+    21300290: GroundCannon_4
+    21300292: GroundCannon_Second_0
+    21300294: GroundCannon_Detail_0
+    21300296: GroundCannon_Detail_1
+    21300298: GroundCannon_Second_2
+    21300300: GroundCannon_Second_3
+    21300302: GroundCannon_Second_4
+    21300304: GroundCannon_Second_5
+    21300306: GroundCannon_Detail_2
+    21300308: GroundCannon_Detail_3
+    21300310: GroundCannon_Detail_4
+    21300312: Large_Fodder_Main
+    21300314: Large_Fodder_Second
+    21300316: Large_Fodder_Cockpit
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MJ-015_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 301
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MJ-015_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 301
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MJ-015_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 301
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MJ-015_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 301
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MJ-015_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 301
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MJ-015_Second_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 301
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MJ-015_Second_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 301
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MJ-015_Second_0
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 301
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MJ-015_Second_3
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 301
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MJ-015_Second_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 301
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MJ-015_CockPit_2
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 301
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MJ-015_CockPit_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 301
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MJ-015_CockPit_0
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 301
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MJ-015_CockPit_3
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 301
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MJ-015_CockPit_4
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 301
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beetle_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 282
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beetle_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 282
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beetle_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 282
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beetle_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 282
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beetle_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 282
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beetle_Second_0
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 282
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beetle_Second_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 282
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beetle_Second_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 282
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beetle_Second_3
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 282
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beetle_Second_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 282
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beetle_CockPit_0
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 282
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beetle_CockPit_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 282
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beetle_CockPit_3
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 282
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beetle_CockPit_4
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 282
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beetle_CockPit_5
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 282
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cargo_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 263
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cargo_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 263
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cargo_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 263
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cargo_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 263
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cargo_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 263
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cargo_Second_0
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 263
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cargo_Second_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 263
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cargo_Second_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 263
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cargo_Second_3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 263
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cargo_Second_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 263
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cargo_CockPit_0
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 263
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cargo_CockPit_1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 263
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cargo_CockPit_2
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 263
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cargo_CockPit_3
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 263
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cargo_CockPit_4
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 263
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Viper_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 243
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Viper_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 243
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Viper_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 243
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Viper_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 243
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Viper_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 243
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Pod_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 232
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Pod_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 232
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Pod_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 232
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Pod_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 232
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Pod_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 232
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cobra_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 210
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cobra_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 210
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cobra_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 210
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cobra_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 210
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cobra_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 210
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Scamp_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Scamp_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Scamp_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Scamp_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Scamp_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ships_Fodder_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 181
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ships_Fodder_21
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 181
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ships_Fodder_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 181
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ships_Fodder_23
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 181
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ships_Fodder_24
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 181
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Viper_Second_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 243
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Viper_Second_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 243
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Viper_Second_0
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 243
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Viper_Second_3
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 243
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Viper_Second_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 243
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Pod_Second_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 232
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Pod_Second_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 232
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Pod_Second_0
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 232
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Pod_Second_3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 232
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Pod_Second_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 232
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cobra_Second_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 210
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cobra_Second_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 210
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cobra_Second_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 210
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cobra_Second_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 210
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cobra_Second_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 210
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Scamp_Second_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Scamp_Second_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Scamp_Second_0
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Scamp_Second_3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Scamp_Second_4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ships_Fodder_45
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 181
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ships_Fodder_46
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 181
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ships_Fodder_47
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 181
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ships_Fodder_48
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 181
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ships_Fodder_49
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 181
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Viper_Cockpit_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 243
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Viper_Cockpit_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 243
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Viper_Cockpit_3
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 243
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Viper_Cockpit_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 243
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Viper_Cockpit_0
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 243
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Pod_Cockpit_2
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 232
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Pod_Cockpit_1
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 232
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Pod_Cockpit_0
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 232
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Pod_Cockpit_3
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 232
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Pod_Cockpit_4
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 232
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cobra_Cockpit_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 210
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cobra_Cockpit_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 210
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cobra_Cockpit_0
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 210
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cobra_Cockpit_3
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 210
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cobra_Cockpit_4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 210
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Scamp_Cockpit_2
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Scamp_Cockpit_1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Scamp_Cockpit_0
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Scamp_Cockpit_3
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Scamp_Cockpit_4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ships_Fodder_70
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 181
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ships_Fodder_71
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 181
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ships_Fodder_72
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 181
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ships_Fodder_73
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 181
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ships_Fodder_74
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 181
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ships_Fodder_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 243
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rockship1_Main
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 19
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rockship1_Second
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rockship2_Main
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 15
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rockship2_Second
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ships_Fodder_Blank
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Large_Fodder_Main
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 17}
+        - {x: -23.5, y: -5}
+        - {x: -23.5, y: -17}
+        - {x: 23.5, y: -17}
+        - {x: 23.5, y: -7}
+        - {x: 4.5, y: 17}
+    - name: Large_Fodder_Second
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 13}
+        - {x: -13.5, y: 1}
+        - {x: -13.5, y: -9}
+        - {x: -10.5, y: -12}
+        - {x: 10.5, y: -12}
+        - {x: 13.5, y: -10}
+        - {x: 13.5, y: 3}
+        - {x: 7.5, y: 13}
+    - name: Large_Fodder_Cockpit
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 17}
+        - {x: -4.5, y: 2}
+        - {x: -3.5, y: 0}
+        - {x: 4.5, y: 0}
+        - {x: 4.5, y: 17}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,597 @@
+fileFormatVersion: 2
+guid: 779c73195c6c0f04484c3f4aec53927b
+timeCreated: 1466050316
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Turret_Round_0
+    21300002: Turret_Round_1
+    21300004: Turret_Round_2
+    21300006: Turret_Round_3
+    21300008: Turret_Round_4
+    21300010: Turret_Round_Second_0
+    21300012: Turret_Round_Second_1
+    21300014: Turret_Round_Second_2
+    21300016: Turret_Round_Second_3
+    21300018: Turret_Round_Second_4
+    21300020: Turret_Round_Detail_0
+    21300022: Turret_Round_Detail_1
+    21300024: Turret_Round_Detail_2
+    21300026: Turret_Round_Detail_3
+    21300028: Turret_Round_Detail_4
+    21300030: Ground_Cannon_0
+    21300032: Ground_Cannon_1
+    21300034: Ground_Cannon_2
+    21300036: Ground_Cannon_3
+    21300038: Ground_Cannon_4
+    21300040: Ground_Cannon_Second_0
+    21300042: Ground_Cannon_Second_1
+    21300044: Ground_Cannon_Second_2
+    21300046: Ground_Cannon_Second_3
+    21300048: Ground_Cannon_Second_4
+    21300050: Ground_Cannon_Detail_0
+    21300052: Ground_Cannon_Detail_1
+    21300054: Ground_Cannon_Detail_2
+    21300056: Ground_Cannon_Detail_3
+    21300058: Ground_Cannon_Detail_4
+    21300060: Building_Small_0
+    21300062: Building_Small_1
+    21300064: Building_Small_2
+    21300066: Building_Small_3
+    21300068: Building_Small_4
+    21300070: Building_Small_Second_0
+    21300072: Building_Small_Second_1
+    21300074: Building_Small_Second_2
+    21300076: Building_Small_Second_3
+    21300078: Building_Small_Second_4
+    21300080: Building_Small_Detail_0
+    21300082: Building_Small_Detail_1
+    21300084: Building_Small_Detail_2
+    21300086: Building_Small_Detail_3
+    21300088: Building_Small_Detail_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Turret_Round_0
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Turret_Round_1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Turret_Round_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Turret_Round_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Turret_Round_4
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Turret_Round_Second_0
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 15
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Turret_Round_Second_1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 15
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Turret_Round_Second_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 15
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Turret_Round_Second_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 15
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Turret_Round_Second_4
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 15
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Turret_Round_Detail_0
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 29
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Turret_Round_Detail_1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 29
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Turret_Round_Detail_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 29
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Turret_Round_Detail_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 29
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Turret_Round_Detail_4
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 29
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ground_Cannon_0
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ground_Cannon_1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ground_Cannon_2
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ground_Cannon_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ground_Cannon_4
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ground_Cannon_Second_0
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 25
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ground_Cannon_Second_1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 25
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ground_Cannon_Second_2
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 25
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ground_Cannon_Second_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 25
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ground_Cannon_Second_4
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 25
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ground_Cannon_Detail_0
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 49
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ground_Cannon_Detail_1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 49
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ground_Cannon_Detail_2
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 49
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ground_Cannon_Detail_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 49
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ground_Cannon_Detail_4
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 49
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Building_Small_0
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 292
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Building_Small_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 292
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Building_Small_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 292
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Building_Small_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 292
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Building_Small_4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 292
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Building_Small_Second_0
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 264
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Building_Small_Second_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 264
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Building_Small_Second_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 264
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Building_Small_Second_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 264
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Building_Small_Second_4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 264
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Building_Small_Detail_0
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 236
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Building_Small_Detail_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 236
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Building_Small_Detail_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 236
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Building_Small_Detail_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 236
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Building_Small_Detail_4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 236
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

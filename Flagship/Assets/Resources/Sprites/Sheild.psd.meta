@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 4f03ba8ce16ead4429e056f9e75bc609
+timeCreated: 1442674850
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sheild_0
+    21300002: Sheild_1
+    21300004: Sheild_2
+    21300006: Sheild_3
+    21300008: Sheild_4
+    21300010: Sheild_5
+    21300012: Sheild_6
+    21300014: Sheild_7
+    21300016: Sheild_8
+    21300018: Sheild_Panel_0
+    21300020: Sheild_Panel_1
+    21300022: Sheild_Panel_2
+    21300024: Sheild_Panel_3
+    21300026: Sheild_Panel_4
+    21300028: Sheild_Panel_5
+    21300030: Sheild_Panel_6
+    21300032: Sheild_Panel_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sheild_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 279
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheild_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 279
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheild_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 279
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheild_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 279
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheild_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 279
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheild_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 279
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheild_6
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 279
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheild_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 279
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheild_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 240
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheild_Panel_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheild_Panel_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheild_Panel_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheild_Panel_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheild_Panel_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheild_Panel_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheild_Panel_6
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheild_Panel_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

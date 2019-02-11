@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 774405f9b98b8f7419f2592a3416db7e
+timeCreated: 1457374389
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Projectile_01
+    21300002: Projectile_02
+    21300004: Projectile_03
+    21300006: Projectile_04
+    21300008: Projectile_06
+    21300010: Projectile_05_01
+    21300012: Projectiles_0
+    21300014: Projectiles_1
+    21300016: Flame_0
+    21300018: Flame_1
+    21300020: Flame_2
+    21300022: Flame_3
+    21300024: Flame_4
+    21300026: Projectiles_2
+    21300028: Projectiles_3
+    21300030: Frost_0
+    21300032: Frost_1
+    21300034: Frost_2
+    21300036: Frost_3
+    21300038: Frost_4
+    21300040: Heavy_Green
+    21300042: Projectiles_4
+    21300044: Projectiles_5
+    21300046: Projectiles_6
+    21300048: Projectiles_7
+    21300050: Cluster_Bomb
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Projectile_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Projectile_02
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Projectile_03
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Projectile_04
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Projectile_06
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Projectile_05_01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Projectiles_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 288
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Projectiles_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 289
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flame_0
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 302
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flame_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 296
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flame_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 286
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flame_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 278
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 19.5}
+        - {x: -19.5, y: 12.5}
+        - {x: -19.5, y: -9.5}
+        - {x: 19.5, y: -9.5}
+        - {x: 19.5, y: 17.5}
+        - {x: 14.5, y: 19.5}
+    - name: Flame_4
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 264
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 17.5}
+        - {x: -26.5, y: 10.5}
+        - {x: -26.5, y: -9.5}
+        - {x: -25.5, y: -10.5}
+        - {x: 26.5, y: -10.5}
+        - {x: 26.5, y: 19.5}
+        - {x: 16.5, y: 26.5}
+        - {x: -13.5, y: 26.5}
+        - {x: -18.5, y: 25.5}
+    - name: Projectiles_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 290
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Projectiles_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Frost_0
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 249
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Frost_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 243
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Frost_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 233
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Frost_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 225
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 19.5}
+        - {x: -19.5, y: 12.5}
+        - {x: -19.5, y: -9.5}
+        - {x: 19.5, y: -9.5}
+        - {x: 19.5, y: 17.5}
+        - {x: 14.5, y: 19.5}
+    - name: Frost_4
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 211
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 17.5}
+        - {x: -26.5, y: 10.5}
+        - {x: -26.5, y: -9.5}
+        - {x: -25.5, y: -10.5}
+        - {x: 26.5, y: -10.5}
+        - {x: 26.5, y: 19.5}
+        - {x: 16.5, y: 26.5}
+        - {x: -13.5, y: 26.5}
+        - {x: -18.5, y: 25.5}
+    - name: Heavy_Green
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 259
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Projectiles_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Projectiles_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 263
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Projectiles_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 271
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Projectiles_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 263
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cluster_Bomb
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 276
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

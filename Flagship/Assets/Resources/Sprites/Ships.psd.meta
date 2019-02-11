@@ -1,0 +1,1489 @@
+fileFormatVersion: 2
+guid: 364354b7f3ccc9e4d9fbfc06bf2c1da8
+timeCreated: 1452878552
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Dart_2
+    21300002: Dart_3
+    21300004: Dart_4
+    21300006: Dart_1
+    21300008: Dart_0
+    21300010: Dart_Second_2
+    21300012: Dart_Second_1
+    21300014: Dart_Second_0
+    21300016: Dart_Second_3
+    21300018: Dart_Second_4
+    21300020: Dart_Cockpit_2
+    21300022: Dart_Cockpit_1
+    21300024: Dart_Cockpit_3
+    21300026: Dart_Cockpit_4
+    21300028: Dart_Cockpit_0
+    21300030: Shifter_2
+    21300032: Shifter_1
+    21300034: Shifter_0
+    21300036: Shifter_3
+    21300038: Shifter_4
+    21300040: Shifter_Second_0
+    21300042: Shifter_Second_1
+    21300044: Shifter_Second_2
+    21300046: Shifter_Second_3
+    21300048: Shifter_Second_4
+    21300050: Shifter_Cockpit_0
+    21300052: Shifter_Cockpit_1
+    21300054: Shifter_Cockpit_2
+    21300056: Shifter_Cockpit_3
+    21300058: Shifter_Cockpit_4
+    21300060: Shuriken_2
+    21300062: Shuriken_1
+    21300064: Shuriken_0
+    21300066: Shuriken_3
+    21300068: Shuriken_4
+    21300070: Shuriken_Second_2
+    21300072: Shuriken_Second_1
+    21300074: Shuriken_Second_0
+    21300076: Shuriken_Second_3
+    21300078: Shuriken_Second_4
+    21300080: Shuriken_Cockpit_2
+    21300082: Shuriken_Cockpit_1
+    21300084: Shuriken_Cockpit_0
+    21300086: Shuriken_Cockpit_3
+    21300088: Shuriken_Cockpit_4
+    21300090: MOW_1
+    21300092: MOW_0
+    21300094: MOW_2
+    21300096: MOW_Second_1
+    21300098: MOW_Second_0
+    21300100: MOW_Second_2
+    21300102: MOW_Cockpit_1
+    21300104: MOW_Cockpit_0
+    21300106: MOW_Cockpit_2
+    21300108: MJ-015_2
+    21300110: MJ-015_1
+    21300112: MJ-015_0
+    21300114: MJ-015_3
+    21300116: MJ-015_4
+    21300118: MJ-015_Second_2
+    21300120: MJ-015_Second_1
+    21300122: MJ-015_Second_0
+    21300124: MJ-015_Second_3
+    21300126: MJ-015_Second_4
+    21300128: MJ-015_Cockpit_2
+    21300130: MJ-015_Cockpit_1
+    21300132: MJ-015_Cockpit_0
+    21300134: MJ-015_Cockpit_3
+    21300136: MJ-015_Cockpit_4
+    21300138: Arrow_2
+    21300140: Arrow_1
+    21300142: Arrow_0
+    21300144: Arrow_3
+    21300146: Arrow_4
+    21300148: Arrow_Second_0
+    21300150: Arrow_Second_1
+    21300152: Arrow_Second_2
+    21300154: Arrow_Second_3
+    21300156: Arrow_Second_4
+    21300158: Arrow_Cockpit_2
+    21300160: Arrow_Cockpit_1
+    21300162: Arrow_Cockpit_0
+    21300164: Arrow_Cockpit_3
+    21300166: Arrow_Cockpit_4
+    21300168: Talon_2
+    21300170: Talon_1
+    21300172: Talon_0
+    21300174: Talon_3
+    21300176: Talon_4
+    21300178: Talon_Second_2
+    21300180: Talon_Second_1
+    21300182: Talon_Second_0
+    21300184: Talon_Second_3
+    21300186: Talon_Second_4
+    21300188: Talon_Cockpit_2
+    21300190: Talon_Cockpit_3
+    21300192: Talon_Cockpit_4
+    21300194: Talon_Cockpit_1
+    21300196: Talon_Cockpit_0
+    21300198: Phalanx_2
+    21300200: Phalanx_1
+    21300202: Phalanx_0
+    21300204: Phalanx_3
+    21300206: Phalanx_4
+    21300208: Phalanx_Second_2
+    21300210: Phalanx_Second_1
+    21300212: Phalanx_Second_0
+    21300214: Phalanx_Second_3
+    21300216: Phalanx_Second_4
+    21300218: Phalanx_Cockpit_2
+    21300220: Phalanx_Cockpit_1
+    21300222: Phalanx_Cockpit_0
+    21300224: Phalanx_Cockpit_3
+    21300226: Phalanx_Cockpit_4
+    21300228: Hawk_2
+    21300230: Hawk_1
+    21300232: Hawk_0
+    21300234: Hawk_3
+    21300236: Hawk_4
+    21300238: Hawk_Second_2
+    21300240: Hawk_Second_1
+    21300242: Hawk_Second_3
+    21300244: Hawk_Second_0
+    21300246: Hawk_Second_4
+    21300248: Hawk_Cockpit_2
+    21300250: Hawk_Cockpit_1
+    21300252: Hawk_Cockpit_3
+    21300254: Hawk_Cockpit_0
+    21300256: Hawk_Cockpit_4
+    21300258: MJ_F01_2
+    21300260: MJ_F01_1
+    21300262: MJ_F01_0
+    21300264: MJ_F01_3
+    21300266: MJ_F01_4
+    21300268: MJ_F01_Second_2
+    21300270: MJ_F01_Second_1
+    21300272: MJ_F01_Second_0
+    21300274: MJ_F01_Second_3
+    21300276: MJ_F01_Second_4
+    21300278: MJ_F01_Cockpit_2
+    21300280: MJ_F01_Cockpit_1
+    21300282: MJ_F01_Cockpit_0
+    21300284: MJ_F01_Cockpit_3
+    21300286: MJ_F01_Cockpit_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Dart_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 288
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dart_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 288
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dart_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 288
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dart_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 288
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dart_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 288
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dart_Second_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 288
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dart_Second_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 288
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dart_Second_0
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 288
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dart_Second_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 288
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dart_Second_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 288
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dart_Cockpit_2
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 288
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dart_Cockpit_1
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 288
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dart_Cockpit_3
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 288
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dart_Cockpit_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 288
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dart_Cockpit_0
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shifter_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 250
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shifter_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 250
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shifter_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 250
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shifter_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 250
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shifter_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 250
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shifter_Second_0
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 250
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shifter_Second_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 250
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shifter_Second_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 250
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shifter_Second_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 250
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shifter_Second_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 250
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shifter_Cockpit_0
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 250
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shifter_Cockpit_1
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 250
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shifter_Cockpit_2
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 250
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shifter_Cockpit_3
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 250
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shifter_Cockpit_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 250
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shuriken_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 222
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shuriken_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 222
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shuriken_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 222
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shuriken_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 222
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shuriken_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 222
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shuriken_Second_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 222
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shuriken_Second_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 222
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shuriken_Second_0
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 222
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shuriken_Second_3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 222
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shuriken_Second_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 222
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shuriken_Cockpit_2
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 222
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shuriken_Cockpit_1
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 222
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shuriken_Cockpit_0
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 222
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shuriken_Cockpit_3
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 222
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shuriken_Cockpit_4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 222
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MOW_1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 59
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MOW_0
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 59
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MOW_2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 59
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MOW_Second_1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 29
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MOW_Second_0
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 29
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MOW_Second_2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 29
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MOW_Cockpit_1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MOW_Cockpit_0
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MOW_Cockpit_2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arrow_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 173
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arrow_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 173
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arrow_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 173
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arrow_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 173
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arrow_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 173
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arrow_Second_0
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 173
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arrow_Second_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 173
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arrow_Second_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 173
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arrow_Second_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 173
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arrow_Second_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 173
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arrow_Cockpit_2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 173
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arrow_Cockpit_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 173
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arrow_Cockpit_0
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 173
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arrow_Cockpit_3
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 173
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arrow_Cockpit_4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 173
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Talon_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 153
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Talon_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 153
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Talon_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 153
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Talon_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 153
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Talon_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 153
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Talon_Second_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 153
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Talon_Second_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 153
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Talon_Second_0
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 153
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Talon_Second_3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 153
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Talon_Second_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 153
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Talon_Cockpit_2
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 153
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Talon_Cockpit_3
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 153
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Talon_Cockpit_4
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 153
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Talon_Cockpit_1
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 153
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Talon_Cockpit_0
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 153
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phalanx_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 129
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phalanx_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 129
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phalanx_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 129
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phalanx_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 129
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phalanx_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 129
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phalanx_Second_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 129
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phalanx_Second_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 129
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phalanx_Second_0
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 129
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phalanx_Second_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 129
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phalanx_Second_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 129
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phalanx_Cockpit_2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 129
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phalanx_Cockpit_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 129
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phalanx_Cockpit_0
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 129
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phalanx_Cockpit_3
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 129
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Phalanx_Cockpit_4
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 129
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hawk_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 100
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hawk_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 100
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hawk_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 100
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hawk_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 100
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hawk_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 100
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hawk_Second_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 100
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hawk_Second_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 100
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hawk_Second_3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 100
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hawk_Second_0
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 100
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hawk_Second_4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 100
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hawk_Cockpit_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 100
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hawk_Cockpit_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 100
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hawk_Cockpit_3
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 100
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hawk_Cockpit_0
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 100
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hawk_Cockpit_4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 100
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MJ_F01_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 196
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MJ_F01_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 196
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MJ_F01_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 196
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MJ_F01_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 196
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MJ_F01_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 196
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MJ_F01_Second_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 196
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MJ_F01_Second_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 196
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MJ_F01_Second_0
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 196
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MJ_F01_Second_3
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 196
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MJ_F01_Second_4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 196
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MJ_F01_Cockpit_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 196
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MJ_F01_Cockpit_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 196
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MJ_F01_Cockpit_0
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 196
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MJ_F01_Cockpit_3
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 196
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MJ_F01_Cockpit_4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 196
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
